@@ -1,1 +1,1 @@
-[GitHub Docs] (https://docs.github.com/en/get-started/quickstart/github-glossary)
+[GitHub Intro] (https://docs.github.com/en/get-started/quickstart/hello-world#introduction)
