@@ -1,1 +1,1 @@
-[GitHub Intro] (https://docs.github.com/en/get-started/quickstart/hello-world#introduction)
+[My page] (https://www.pinterest.com/adjaf14/_saved/)
