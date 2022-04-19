@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub Docs] (https://docs.github.com/en/get-started/quickstart/github-glossary)
